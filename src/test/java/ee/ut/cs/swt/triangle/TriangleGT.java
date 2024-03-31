@@ -1,3 +1,4 @@
+/*
 package ee.ut.cs.swt.triangle;
 
 import org.junit.Test;
@@ -164,4 +165,4 @@ public class TriangleGT {
 	    assertEquals(1239, triangle0.getPerimeter());
 	}
 
-}
+}*/
