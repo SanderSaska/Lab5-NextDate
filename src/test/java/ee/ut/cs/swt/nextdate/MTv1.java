@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 import org.junit.AfterClass;
 import org.junit.Test;
 
-public class MTv1 {
+public class  MTv1 {
 	
 	private NextDate trialDate = new NextDate(3,4,1976);
 
